@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# TMDB api 활용 영화 & 드라마 사이트
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
